@@ -15,9 +15,11 @@ Key concepts learnt:
 - Time Complexity
 - Improving efficiency
 - Heuristic Algorithms
+- Path-finding algorithms
 - Data Structures:
   * Stacks and Queues
   * Lists (ArrayLists and Linked lists)
   * Sets (HashSets and TreeSets)
   * Priority Queues
   * Binary Heaps (Min and Max heaps)
+  * Graphs
