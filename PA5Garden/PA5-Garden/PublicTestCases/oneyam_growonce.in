@@ -1,0 +1,7 @@
+rows: 1
+cols: 1
+
+plant (0,0) YAM
+PRINT
+harvest Yam
+print

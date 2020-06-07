@@ -1,0 +1,6 @@
+rows: 1
+cols: 1
+
+PLANT (0,0) banana
+PRINT
+GROW 1
