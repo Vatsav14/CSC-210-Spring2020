@@ -20,6 +20,7 @@ Key concepts learnt:
   * Stacks and Queues
   * Lists (ArrayLists and Linked lists)
   * Sets (HashSets and TreeSets)
+  * Maps (HashMaps and TreeMaps)
   * Priority Queues
   * Binary Heaps (Min and Max heaps)
   * Graphs
