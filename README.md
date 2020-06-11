@@ -9,6 +9,7 @@ Key concepts learnt:
 - Long term project workflow
 - Inheritance
 - Polymorphism
+- Generics
 - Object Oriented Programming (Classes and Objects)
 - Recursion
 - Recursive Backtracking
