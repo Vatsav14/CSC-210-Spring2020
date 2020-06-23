@@ -14,7 +14,9 @@ Key concepts learnt:
 - Recursion
 - Recursive Backtracking
 - Time Complexity
-- Improving efficiency
+- Optimization techniques:
+  * Memoization
+  * Parallelization
 - Heuristic Algorithms
 - Path-finding algorithms
 - Data Structures:
